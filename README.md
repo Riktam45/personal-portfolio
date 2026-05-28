@@ -143,7 +143,7 @@ OR use VS Code Live Server extension.
 https://github.com/Riktam45
 
 ## LinkedIn
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/riktam-sarkar
 
 ## Email
 riktamsarkar049@gmail.com
